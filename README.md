@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Java
 
-📫 How to reach me, https://www.linkedin.com/in/gabriel-wotorson-90405a238
+📫 How to reach me, www.linkedin.com/in/gwotorson
 
 Guidelines:
 
