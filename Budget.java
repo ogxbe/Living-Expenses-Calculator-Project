@@ -27,7 +27,8 @@ public class Budget { // Start class
             // Print Statements
         System.out.println("The TA is paid " + hrlywage + " dollars per hour.");
         System.out.println("The TA spends $" + rent + " on rent, $" + internet + " on their internet bill, $" + groceries + 
-        " on their groceries, and have $" + extraFun + " left over as extra allowance"); // make sure theres two 0's after the decimal, ex: "500.00"
+        " on their groceries, and have $" + extraFun + " left over as extra allowance"); // make sure theres two 0's after the decimal, ex: "500.00".
+        // It's something along the lines of %.02f, value
         
         System.out.println("The TA's total monthly expenses is $" + totalExpenses + ".");
             System.out.println("The TA needs to work " + timeNeededWeekly + " hours a week to break even and cover their living expenses.");
