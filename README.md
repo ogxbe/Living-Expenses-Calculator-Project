@@ -22,22 +22,21 @@ $150 monthly 'fun' allowance - funds to be used for leisurely activities
 
 The program should perform the following calculations:
 
+1) Calculate how many hours the student will have to work in a week to afford the monthly expenses listed above.
 
-Calculate how many hours the student will have to work in a week to afford the monthly expenses listed above.
-
-Calculate how many hours the student will have to work in a week to include an additional savings of $100 per month.
+2) Calculate how many hours the student will have to work in a week to include an additional savings of $100 per month.
 
 The program should output the following information:
 
 
-hourly wage which is $10
+1) hourly wage which is $10
 
-each monthly item expense
+2) each monthly item expense
 
-total monthly expenses
+3) total monthly expenses
 
-how many hours per week the student would have to work to break even (spend the same amount they earn)
+4) how many hours per week the student would have to work to break even (spend the same amount they earn)
 
-how many hours per week the student would have to work to save $100 a month after paying all expenses
+5) how many hours per week the student would have to work to save $100 a month after paying all expenses
 
 You may assume that a month is 4 weeks.
