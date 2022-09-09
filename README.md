@@ -1,6 +1,9 @@
 👋 Hi, I’m Gabe!
+
 👀 I’m interested in computer science
+
 🌱 I’m currently learning Java
+
 📫 How to reach me, https://www.linkedin.com/in/gabriel-wotorson-90405a238
 
 Guidelines:
