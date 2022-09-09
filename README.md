@@ -1,7 +1,10 @@
-# Living-Expenses-Calculator-Project
-
+👋 Hi, I’m Gabe!
+👀 I’m interested in computer science
+🌱 I’m currently learning Java
+📫 How to reach me, https://www.linkedin.com/in/gabriel-wotorson-90405a238
 
 Guidelines:
+
 Your task is to write a program that calculates how many hours a grader/TA at CCI needs to work to cover their living expenses.
 
 The program should account for the cost of the following items:
